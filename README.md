@@ -55,19 +55,21 @@
 
 ### 🚀 Featured Projects
 
-#### 🔹 [AccesslyPDF — Full Stack PDF Accessibility Platform](https://github.com/akashchowdarygogineni/Accessly-pdf-checker)
-AI-powered platform built with **Next.js, Neon PostgreSQL, Prisma ORM, and OpenAI API** to detect and remediate PDF accessibility issues (missing alt-text, incorrect reading order). Integrated 10+ REST API endpoints with Clerk authentication, cutting manual accessibility testing effort by ~70%.
+🔹 AccesslyPDF — Full Stack PDF Accessibility Platform
 
-#### 🔹 [Chat with PDF — RAG PDF Chatbot]([https://github.com](https://github.com/akashchowdarygogineni/pdf-chatbot))
-Full-stack RAG-enabled chatbot using **Next.js, FastAPI, ChromaDB, and Gemini API**, enabling semantic search across uploaded PDFs. Built 12+ FastAPI endpoints for upload, OCR, embeddings, retrieval, chat, auth, and an AI-driven resume analyzer.
+AI-powered platform built with Next.js, Neon PostgreSQL, Prisma ORM, and OpenAI API to detect and remediate PDF accessibility issues (missing alt-text, incorrect reading order). Integrated 10+ REST API endpoints with Clerk authentication, cutting manual accessibility testing effort by ~70%.
 
-#### 🔹 Accessibility Automation Pipeline (at Continual Engine) (https://github.com/akashchowdarygogineni/accessibility-automation-project)
+🔹 Chat with PDF — RAG PDF Chatbot
+
+Full-stack RAG-enabled chatbot using Next.js, FastAPI, ChromaDB, and Gemini API, enabling semantic search across uploaded PDFs. Built 12+ FastAPI endpoints for upload, OCR, embeddings, retrieval, chat, auth, and an AI-driven resume analyzer.
+
+🔹 Accessibility Automation Pipeline (at Continual Engine)
+
 End-to-end PDF accessibility automation system combining PAC desktop automation and PREP JAR-based APIs in a 3-stage validation pipeline, processing 500+ PDFs against 170+ accessibility rules with a Python + Spring Boot batch framework and Slack integration.
 
-#### 🔹 OCR Analytics Dashboard *(at Continual Engine)*
-Angular-based dashboard integrating OCR Reporting and Azure Cost Analytics APIs, surfacing real-time insights across 1,000+ operational records with 15+ reusable API services and optimized Chart.js visualizations.
+🔹 OCR Analytics Dashboard (at Continual Engine)
 
-> 💡 Update the project links above with your actual repo URLs!
+Angular-based dashboard integrating OCR Reporting and Azure Cost Analytics APIs, surfacing real-time insights across 1,000+ operational records with 15+ reusable API services and optimized Chart.js visualizations.
 
 ---
 
